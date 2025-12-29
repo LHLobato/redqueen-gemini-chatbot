@@ -22,3 +22,7 @@ Immersive UI: Custom CSS injection in Streamlit creates a "Sci-Fi Horror" termin
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+3. Include your gemini API Key.
+4. Run the project with:
+   ```bash 
+   streamlit run app.py
