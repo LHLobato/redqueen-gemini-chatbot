@@ -12,3 +12,13 @@ Persona Engineering: Custom system instructions force the AI to maintain the col
 High-Performance: Powered by Gemini 3.0 Flash for near-instant responses.
 
 Immersive UI: Custom CSS injection in Streamlit creates a "Sci-Fi Horror" terminal aesthetic with dynamic backgrounds and glowing text effects.
+
+## 🔴 Online Access
+1. This project is available in redqueen.streamlit.app
+
+## 🛠️ How to Run
+
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
