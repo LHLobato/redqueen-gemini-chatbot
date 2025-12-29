@@ -1,0 +1,31 @@
+# --- SEGURANÇA (O MAIS IMPORTANTE) ---
+# Ignora arquivos de variáveis de ambiente com senhas
+.env
+
+# Ignora os segredos locais do Streamlit (onde sua API KEY está agora)
+.streamlit/secrets.toml
+
+# --- PYTHON ---
+# Arquivos compilados (lixo gerado automaticamente)
+__pycache__/
+*.pyc
+
+# --- AMBIENTES VIRTUAIS ---
+# Ignora a pasta onde você instala as bibliotecas (para não subir 500MB de libs)
+venv/
+env/
+.venv/
+ic_venv/
+
+# --- IDEs e EDITORES ---
+# Configurações locais do VS Code (opcional, mas recomendado)
+.vscode/
+.idea/
+
+# --- ARQUIVOS DE SISTEMA ---
+.DS_Store
+
+# --- EXCEÇÕES ---
+# Garante que o config.toml (se você criar para mudar o tema) SEJA enviado,
+# mesmo que esteja dentro da pasta .streamlit/
+! .streamlit/config.toml
