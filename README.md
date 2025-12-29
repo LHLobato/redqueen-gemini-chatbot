@@ -5,10 +5,10 @@ You are all going to die down here. 🔴
 
 Key Features List 
 
-🧠 Semantic Guardrails: Uses sentence-transformers (BERT) to mathematically verify trough embeddings, if a user's question belongs to the Resident Evil context before sending it to the LLM.
+Semantic Guardrails: Uses sentence-transformers (BERT) to mathematically verify trough embeddings, if a user's question belongs to the Resident Evil context before sending it to the LLM.
 
-🎭 Persona Engineering: Custom system instructions force the AI to maintain the cold, logical, and threatening tone of the Red Queen.
+Persona Engineering: Custom system instructions force the AI to maintain the cold, logical, and threatening tone of the Red Queen.
 
-⚡ High-Performance: Powered by Gemini 3.0 Flash for near-instant responses.
+High-Performance: Powered by Gemini 3.0 Flash for near-instant responses.
 
-🎨 Immersive UI: Custom CSS injection in Streamlit creates a "Sci-Fi Horror" terminal aesthetic with dynamic backgrounds and glowing text effects.
+Immersive UI: Custom CSS injection in Streamlit creates a "Sci-Fi Horror" terminal aesthetic with dynamic backgrounds and glowing text effects.
