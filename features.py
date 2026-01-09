@@ -31,7 +31,7 @@ def verify_context_question(model, message):
     ]
 
 
-    message = "How Can I kill the Salazar Boss in Resident Evil 4?"
+    #message = "How Can I kill the Salazar Boss in Resident Evil 4?"
 
 
     embedding_referencia = model.encode(topicos_referencia)
